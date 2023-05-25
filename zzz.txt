@@ -1,0 +1,22 @@
+//Get-Address
+
+//Add-Address
+{
+    "Type" : "Billing",
+    "AddressDetail":"xyz",
+    "Country":"India",
+    "State":"Guj",
+     "City":"Ahmedabad",
+     "ZipCode":"380001",
+     "ContactPerson":"PersonA",
+     "ContactNo":"8521470369"
+}
+
+
+//UpdateOrderStatus
+
+orderid: int
+status: int
+
+
+//CreateDraftOrder
